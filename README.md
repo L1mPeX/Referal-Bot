@@ -16,7 +16,7 @@
 Запуск бота:
 - Переходим в директорию с ботом и прописываем: python3 main.py
 
-	Установка Windows:
+Установка Windows:
 - Нужен Python 3 версии
 Обновление и установка библиотек:
 - pip install pyTelegramBotAPI
